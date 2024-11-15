@@ -1,2 +1,4 @@
-# -NJIT_Beamer_Theme
-南京工程学院中文模板 NJIT_Beamer_Theme
+# NJIT_Beamer_Theme
+南京工程学院LaTex中文模板，LaTex NJIT_Beamer_Theme
+魔改自THU_Beamer_Theme，Modified from THU_Beamer_Theme
+非官方版本，Unofficial version
